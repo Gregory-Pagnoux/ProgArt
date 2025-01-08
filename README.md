@@ -5,14 +5,15 @@
 ProgArt est un atelier porté par l'association ALGOSC, organisé par le responsable événementiel Grégory Pagnoux et en partenariat avec La mairie de Vierzon.
 Cet atelier entre dans le cadre du projet CulturoDev qui a pour but de mettre en avant l'informatique et les outils numérique dans le domaine artistique. De plus en plus répendu, il faut apprendre à bien se servir des ces outils et reconnaître les détails qui permet de les reconnaître.
 
-
 ProgArt est le premier atelier proposant une courte initiation 1h30 à l'informatique le Dimanche 19 Janvier 2025, à 15h, en créant une oeuvre abstraite à partir de ligne de code pré-implémenté. Le but est de permettre à tout le monde de créer un tableau numérique fait à base de formes géométriques (carrés, cercles, triangles, étoiles...) et de couleur placé où ils le souhaitent. Grâce à cette variété de paramètre, il n'y a de limite à l'art que l'imagination.
+
+L'atelier est animé par Grégory Pagnoux et Laurent Bouquin.
 
 ## Les ateliers
 
 ![affiche](images/CulturoDev_affiche.png)
 
-[les diaporamas](https://drive.google.com/drive/u/1/folders/1SZQtuIgx7Uw5RWIvNZRm0tvet-Hl8jxc)
+[Les diaporamas](https://drive.google.com/drive/u/1/folders/1SZQtuIgx7Uw5RWIvNZRm0tvet-Hl8jxc)
 
 # A propos de ALGOSC
 
