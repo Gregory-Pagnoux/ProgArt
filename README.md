@@ -9,7 +9,7 @@ ProgArt est le premier atelier proposant une courte initiation 1h30 à l'informa
 
 ## Les ateliers
 
-![affiche](images/CulturoDev_affiche)
+![affiche](images/CulturoDev_affiche.png)
 
 [les diaporamas](https://drive.google.com/drive/u/1/folders/1SZQtuIgx7Uw5RWIvNZRm0tvet-Hl8jxc)
 
