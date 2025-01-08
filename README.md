@@ -17,6 +17,4 @@ ProgArt est le premier atelier proposant une courte initiation 1h30 à l'informa
 # A propos de ALGOSC
 
 ALGOSC est une association étudiante proposant de nombreux activités afin d'animer la vie étudiante à Vierzon, et depuis peu, propose des activités ouvertes au publique afin de se faire connaître des Vierzonnais, du Cher, et du Centre-Val-de-Loire. Ils organisent depuis 2022 un Live caritatif sur leur chaîne Twitch [algosc1](https://www.twitch.tv/algosc1) en l'honneur du Téléthon, également depuis 2024 la Fête Mondiale du Jeu de Société à Vierzon et donc nouvellement, trois ateliers exceptionnel mélangeant l'informatique et l'art.
-Pour suivre tous les prochains événements de ALGOSC, rejoignez-nous sur Instagram [@_algosc](https://www.instagram.com/_algosc/)
-
-<center></center>
+Pour suivre tous les prochains événements de ALGOSC, rejoignez-nous sur Instagram [@_algosc](https://www.instagram.com/_algosc/). Si vous avez des questions sur l'association, vous pouvez nous contacter par mail : [algosupsc@gmail.com](mailto:algosupsc@gmail.com).
